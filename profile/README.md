@@ -1,1 +1,1 @@
-<img src="https://github.com/TeamBolts/.github/raw/main/profile/img/banner6.svg" alt="logo" width="100%">
+<img src="https://github.com/TeamBolts/.github/raw/main/profile/img/banner.png" alt="logo" width="100%">
